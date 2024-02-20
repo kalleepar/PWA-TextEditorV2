@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This API was designed to create users that can interact with eachother as well as add each other as friends.
+This web application is a text editor that will run in a browser and/or a local network. Makes saving notes much easier!
 
 # Table of Contents 
 * [Installation](##-Installation)
@@ -13,21 +13,22 @@ This API was designed to create users that can interact with eachother as well a
 * [Tests](##-Tests)
 * [Questions](##-Contact-Information)
 
-Video Demo:
-https://drive.google.com/file/d/1c-qSkEMEXeb2XHq7yo6eo19gzfwa4cio/view
   
 ## Installation
-MongoDB, Insomnia, Express, and Mongoose were used to develop this program.
+To install the program:
+* Run 'npm install' in the command line.
+* Run 'npm start' in the command line.
+* redirect to http://:localhost:3001 to begin application.
 
 ## Usage
-Run, npm install in the terminal. Next, run npm start to launch server.
+
 
 ## License 
 MIT
 
 ## Contributing 
 Kalleepar at:
-https://github.com/kalleepar/TheSocialNetwork
+https://github.com/kalleepar/PWA-TextEditorV2
 
 ## Tests
 RUN WITH DEV
