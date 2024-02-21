@@ -13,6 +13,7 @@ This web application is a text editor that will run in a browser and/or a local 
 * [Tests](##-Tests)
 * [Questions](##-Contact-Information)
 
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide3.jpg)
   
 ## Installation
 To install the program:
@@ -21,11 +22,14 @@ To install the program:
 * redirect to http://:localhost:3001 to begin application.
 
 ## Usage
-![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
-![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
-![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
-![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
-
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide1.jpg)
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide2.png)
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide4.jpg)
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide5.jpg)
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide6.jpg)
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide7.jpg)
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide8.jpg)
+![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide9.jpg)
 
 ## License 
 MIT
