@@ -21,6 +21,10 @@ To install the program:
 * redirect to http://:localhost:3001 to begin application.
 
 ## Usage
+![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
+![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
+![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
+![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
 
 
 ## License 
