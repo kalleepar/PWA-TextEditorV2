@@ -1,4 +1,4 @@
-# PWA-TextEditorV2
+# PWA Text Editor V2
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -20,6 +20,9 @@ To install the program:
 * Run 'npm install' in the command line.
 * Run 'npm start' in the command line.
 * redirect to http://:localhost:3001 to begin application.
+### Download Instructions
+* Press the Install button to add icon to your desktop.
+* Double click icon to open application locally on machine.
 
 ## Usage
 ![Alt text](https://github.com/kalleepar/PWA-TextEditorV2/blob/main/Assets/PWAguide1.jpg)
@@ -39,7 +42,7 @@ Kalleepar at:
 https://github.com/kalleepar/PWA-TextEditorV2
 
 ## Tests
-RUN WITH DEV
+To test the application run 'npm run build' or 'npm run dev' to test different builds and functions of the app.
 
 ## Contact Information 
 * GitHub Username: Kalleepar
